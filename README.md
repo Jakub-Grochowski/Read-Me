@@ -1,8 +1,13 @@
 # Udemy Tutorial- C# Intermediate remainder
 My objective is to remind my c# skills that i learn on University, and show them at my github. I will go step by step on all the names related to c # I know for e.g Delegates,Collections,Linq. I propably will put here several projects to use many diffrent c# technology, I will put readme file in ever project.
 
+#
+I made organization to make place for many small projects here u can check it:
+https://github.com/Jakub-Grochowski-Education-Projects
+
 ## Table of Contents
-here i will put links to projects
+1. FileReminder
+2. Basicly C# Reminder
 
 
 <!--
