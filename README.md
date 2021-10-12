@@ -8,6 +8,7 @@ https://github.com/Jakub-Grochowski-Education-Projects
 ## Table of Contents
 1. FileReminder
 2. Basicly C# Reminder
+3. [Encapsulation Training](https://github.com/Jakub-Grochowski-Education-Projects/Basic_CSharp_Reminder)
 
 
 <!--
