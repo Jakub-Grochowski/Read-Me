@@ -16,8 +16,8 @@ at my first step to remind me c# and build my Git-Hub CV i watch Tutorial for be
 First lesson for intermediate was encapsulation. You can click [Here](https://github.com/Jakub-Grochowski-Education-Projects/Basic_CSharp_Reminder) to check description about task and how i solved them.
 
 ##Sources
-C# Udemy course for [Begginers](https://udemy.com/course/csharp-tutorial-for-beginners)
-C# Udemy coursefor [Intermediate](https://udemy.com/course/csharp-intermediate-classes-interfaces-and-oop)
+C# Udemy course for [Begginers](https://udemy.com/course/csharp-tutorial-for-beginners)  
+C# Udemy coursefor [Intermediate](https://udemy.com/course/csharp-intermediate-classes-interfaces-and-oop)  
 
 <!--
 # Project Name
