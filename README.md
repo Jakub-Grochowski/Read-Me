@@ -6,10 +6,14 @@ I made organization to make place for many small projects here u can check it:
 https://github.com/Jakub-Grochowski-Education-Projects
 
 ## Table of Contents
-1. FileReminder
-2. Basicly C# Reminder
-3. [Encapsulation Training](https://github.com/Jakub-Grochowski-Education-Projects/Basic_CSharp_Reminder)
+1. [FileReminder](https://github.com/Jakub-Grochowski-Education-Projects/FileReminderUdemy)
+2. [Encapsulation Training](https://github.com/Jakub-Grochowski-Education-Projects/Basic_CSharp_Reminder)
 
+#### File Reminder
+at my first step to remind me c# and build my Git-Hub CV i watch Tutorial for begginers on Udemy, i didnt make all exercies from it beacuse it was too simple i just pick File exercise beacuse i feel like i need to remind how to work with files. [Here](https://github.com/Jakub-Grochowski-Education-Projects/FileReminderUdemy) u can check this two simple exercise and how i did them.
+
+#### Encapsulation Training
+First lesson for intermediate was encapsulation. You can click [Here](https://github.com/Jakub-Grochowski-Education-Projects/Basic_CSharp_Reminder) to check description about task and how i solved them.
 
 <!--
 # Project Name
